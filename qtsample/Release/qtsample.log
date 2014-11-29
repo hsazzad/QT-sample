@@ -1,0 +1,25 @@
+﻿Build started 14/3/2012 1:30:24 PM.
+     1>Project "D:\Dev\Projects\qtsample\qtsample\qtsample.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\qtsample.unsuccessfulbuild".
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dev\Projects\qtsample\Release\qtsample.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\Qt\4.8.0\lib qtmain.lib QtCore4.lib QtGui4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\qtsample.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Dev\Projects\qtsample\Release\qtsample.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dev\Projects\qtsample\Release\qtsample.lib" /MACHINE:X86 Release\main.obj
+         Release\qtsample.obj
+         Release\moc_qtsample.obj
+         Generating code
+         Finished generating code
+         qtsample.vcxproj -> D:\Dev\Projects\qtsample\Release\qtsample.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Dev\Projects\qtsample\Release\qtsample.exe;#1" /manifest Release\qtsample.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\qtsample.unsuccessfulbuild".
+         Touching "Release\qtsample.lastbuildstate".
+     1>Done Building Project "D:\Dev\Projects\qtsample\qtsample\qtsample.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.18
